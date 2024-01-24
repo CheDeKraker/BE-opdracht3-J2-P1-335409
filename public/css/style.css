@@ -1,0 +1,29 @@
+table {
+    border-radius: 15px;
+    background: #343a40; /* Donkergrijs, Bootstrap-stijl */
+    box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 0.3);
+    margin: 20px 0;
+    max-width: 600px;
+    width: 100%;
+    color: #fff; /* Witte tekst voor betere leesbaarheid */
+}
+
+th {
+    border-radius: 10px;
+    background: #23272b; /* Donkerder grijs, Bootstrap-stijl */
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+
+td {
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #495057; /* Donkergrijs, Bootstrap-stijl */
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    border-radius: 5px;
+    color: #e85a4f; /* Donkerrood, Bootstrap-stijl */
+    font-weight: bold;
+}
